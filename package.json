@@ -9,7 +9,11 @@
   },
   "dependencies": {
     "core-js": "^3.4.4",
-    "vue": "^2.6.10"
+    "vue": "^2.6.10",
+    "vue-carousel": "^0.18.0",
+    "vue-material": "^1.0.0-beta-11",
+    "vue-resource": "^1.5.1",
+    "vue-scroll-reveal": "^1.0.11"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.1.0",
